@@ -1,0 +1,32 @@
+.bass {
+    color: blue;
+}
+.foo {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#dee {
+    color: red;
+}
+
+#tee {
+    color: blue;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    padding: 20px;
+}
+
+td, th {
+    border: 1px solid black;
+    
+}
+
+.doo {
+    text-align: left;
+}
+
